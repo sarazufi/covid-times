@@ -1,1 +1,1 @@
-# covid-times
+# The Covid Times
