@@ -1,0 +1,156 @@
+html {
+  /*margin-left: 40px;*/
+  margin-top: 20px;
+  margin-bottom: 80px;
+  /*margin-right: 40px;*/
+}
+
+@font-face {
+  font-family: 'MyWebFont';
+  src: url('Chomsky.woff') format('woff');
+}
+
+h1 {
+  font-family: "chomskyregular";
+  font-size: 100px;
+  margin-bottom: 0px;
+  padding-bottom: 0px;
+  margin-top: 0px;
+}
+
+.tagline {
+  font-size: 25px;
+  font-family: Garamond, sans-serif;
+  margin-top: 0px;
+  font-weight: 400;
+  padding-top: 0px;
+}
+
+.mainlinks {
+  margin-bottom: 0px;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+a:link {
+ text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+  color: rgb(240,255,255);
+}
+.pagelinks1 {
+  background-color: rgb(25,25,112);
+  color: rgb(240,255,255);
+  padding: 5px 5px;
+  border-style: outset;
+  border-color: rgb(255,228,181);
+  border-width: medium;
+  margin-left: 20px;
+  margin-right: 20px;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+.pagelinks2 {
+  background-color: rgb(25,25,112);
+  color: rgb(240,255,255);
+  padding: 5px 5px;
+  border-style: outset;
+  border-color: rgb(255,228,181);
+  border-width: medium;
+  margin-left: 20px;
+  margin-right: 20px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.pagelinks3 {
+  background-color: rgb(25,25,112);
+  color: rgb(240,255,255);
+  padding: 5px 5px;
+  border-style: outset;
+  border-color: rgb(255,228,181);
+  border-width: medium;
+  margin-left: 20px;
+  margin-right: 20px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.pagelinks4 {
+  background-color:rgb(25,25,112);
+  color: rgb(240,255,255);
+  padding: 5px 5px;
+  border-style: outset;
+  border-color: rgb(255,228,181);
+  border-width: medium;
+  padding-left: 10px;
+  padding-right: 10px;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+#slider {
+  margin-top: -5px;
+  margin-left: 0px;
+  margin-right: 0px;
+}
+
+h4 {
+  font-family: "Times New Roman", serif;
+  font-weight: bold;
+}
+
+.about {
+  background-color: rgb(253,245,230);
+  margin: 0px 0px;
+}
+
+.about p, h4 {
+  margin-left: 40px;
+  margin-right: 40px;
+}
+
+.statistics {
+  background-color: rgb(245,245,245);
+  margin: 0px 0px;
+}
+
+.statistics p, h4 {
+  margin-left: 40px;
+  margin-right: 40px;
+}
+
+.health {
+  background-color: rgb(245,255,250);
+  margin: 0px 0px;
+}
+
+.health p, h4, h6, ul {
+  margin-left: 40px;
+  margin-right: 40px;
+}
+
+.health a:hover {
+  color: black;
+}
+
+.locate {
+  background-color: rgb(230,230,250);
+  margin: 0px 0px;
+}
+
+.locate p, h4 {
+  margin-left: 40px;
+  margin-right: 40px;
+}
+
+.headings1 {
+  font-size: 20px;
+}
+
+.headings2 {
+  font-size: 20px;
+}
